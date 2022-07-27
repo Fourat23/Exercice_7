@@ -1,6 +1,8 @@
 pain
-steak
-bacon
-fromage
-salade
 tomate
+Fromage
+Steak
+Salade
+Bacon
+Crispy Oignon
+
